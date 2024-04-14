@@ -16,7 +16,7 @@ int main()
         }
     }
 
-    for (int i = 5; i < 5; i--)
+    for (int i = 5; i < 6; i--)
     {
         if (array[i] > 0) {
             positive = array[i];
